@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaHelpersCP", "MediaHelpersCP\MediaHelpersCP.csproj", "{1FEE02B2-D269-4621-89E1-2CB6E6A8BF0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaHelpersCP", "MediaHelpersCP.csproj", "{1FEE02B2-D269-4621-89E1-2CB6E6A8BF0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
